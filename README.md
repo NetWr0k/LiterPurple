@@ -1,4 +1,4 @@
-<h2 align="center"> <img src = "tests/liter.png" width="30%"/> 
+<h2 align="center"> <img src = "tests/liter.png" width="25%"/> 
 
 # LitterPurple 💜
 
