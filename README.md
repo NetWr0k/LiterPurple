@@ -1,6 +1,7 @@
-# LitterPurple
+<img src = "https://imgur.com/a/k0WDVLy"/>
+# LitterPurple 💜
 
-LitterPurple is a Windows-first, open-source Rust utility for reading and updating selected Apple SysCFG fields on supported A12/A13 devices **after** they have been placed in the required post-exploitation state by an external public research workflow.
+LitterPurple is a Windows first, open source Rust utility for reading and updating selected Apple SysCFG fields on supported A12/A13 devices **after** they have been placed in the required post-exploitation state by an external public research workflow.
 
 It is inspired by older SysCFG tooling, but takes a small, typed, testable approach suitable for a modern Rust backend and a future WPF application.
 
@@ -8,7 +9,7 @@ It is inspired by older SysCFG tooling, but takes a small, typed, testable appro
 
 ## Scope and safety
 
-LitterPurple does not contain exploit logic, device-payload logic, or hardware setup instructions. It assumes the operator is authorized to work on the device and that any required preparation was completed separately. The tool is intended for supported devices and legitimate servicing, research, and development use.
+LitterPurple does not contain exploit logic, device payload logic, or hardware setup instructions. It assumes the operator is authorized to work on the device and that any required preparation was completed separately. The tool is intended for supported devices and legitimate servicing, research, and development use.
 
 Writes are validated locally and then read back for verification. Keep backups and a documented recovery path before working with real hardware once USB support is added.
 
