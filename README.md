@@ -1,4 +1,5 @@
-<img src = "https://imgur.com/a/k0WDVLy"/>
+<img src = "test/liter.png"/>
+
 # LitterPurple 💜
 
 LitterPurple is a Windows first, open source Rust utility for reading and updating selected Apple SysCFG fields on supported A12/A13 devices **after** they have been placed in the required post-exploitation state by an external public research workflow.
