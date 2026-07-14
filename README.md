@@ -1,4 +1,4 @@
-<img src = "test/liter.png"/>
+<img src = "tests/liter.png"/>
 
 # LitterPurple 💜
 
