@@ -1,0 +1,8 @@
+/target/
+*.log
+.vs/
+.idea/
+
+# Local device captures and backups must never be committed.
+*.syscfg-backup
+*.device-backup
